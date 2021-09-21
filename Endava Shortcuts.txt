@@ -1,0 +1,8 @@
+//button[@id="onetrust-pc-btn-handler"] - cookies
+x-path - //*[@id="hero-contentcarousel"]/div[1]/div/div[1]/div/div[1]/div/h2/a  |//a[@class = "heroLink"]
+//*[@id="hero-contentcarousel"]/div[1]/div/div/div/div/div/h2
+//a[@id="menu-toggle"]/span/span
+search -128 chars
+//input[@id='search-input']
+input[id='searchSubmit']
+/html/body/section[2]/article/div/div/div[1]/text()// //div[@class="search-result-lists pos-rel"]// div[class='search-result-lists pos-rel']
